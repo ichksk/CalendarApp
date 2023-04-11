@@ -1,0 +1,6 @@
+再描画の仕組みについてもう少し勉強する
+propsとstateがたまにごっちゃになる。-> propsは引数。stateがpythonでいうproperty
+useMemo, useCallback, React.memoの仕組みがわからない。
+そもそもjavascriptの仕様がいまいちわかっていない。何となくで書いている
+typescriptで書けるようになりたい。
+styleの仕様が分からない。適当に書いている。
